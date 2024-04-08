@@ -1,0 +1,50 @@
+---
+title: "Lab Assignment #xx"
+author: "name1, name2, name3"
+date: "2023-01-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+  
+# Clear environment
+  rm(list = ls())
+
+# Your library commands go here
+  library(tidyverse)
+  library(sandwich)
+  library(modelsummary)
+  library(XML)
+```
+
+
+```{r setwd, echo=FALSE, comment=NA, message=FALSE, warning=FALSE}
+# Set the working directory (use the Session dropdown menu at top, then cut-and-paste here)
+
+```
+
+
+```{r data, echo=FALSE, comment=NA, message=FALSE, warning=FALSE}
+
+
+```
+
+
+```{r table1, echo=FALSE, comment=NA, message=FALSE, warning=FALSE}
+
+
+```
+
+
+```{r plot1, echo=FALSE, comment=NA, message=FALSE, warning=FALSE}
+
+
+```
+
+
+```{r regression1, echo=FALSE, comment=NA, message=FALSE, warning=FALSE}
+
+
+```
+
+
